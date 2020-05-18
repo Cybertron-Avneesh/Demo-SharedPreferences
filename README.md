@@ -1,6 +1,6 @@
-# demo
+# Demo SharedPreferences
 
-A new Flutter project.
+Read the blog [here](https://medium.com/@iib2019010/sharedpreferences-in-flutter-9f5535ac738)
 
 ## Getting Started
 
